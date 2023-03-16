@@ -1,6 +1,6 @@
 # MagnetorSticky_ecosystem
 
-## This is the replication package for MSR challenge paper: Exploring the Magnetic or Sticky Nature of GitHub Ecosystems: NPM, PyPI, and Rubygems.
+## This is the replication package for paper: Exploring the Magnetic or Sticky Nature of GitHub Ecosystems: NPM, PyPI, and Rubygems.
 
 ### We provide all the datasets used in this paper here.
 
